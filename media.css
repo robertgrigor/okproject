@@ -1,0 +1,16 @@
+@media(max-width:320px){
+	.glxavor{
+	border: 1px solid;
+	height: 320px;
+	padding-top: 20px;
+	background: black;
+}
+.box{
+	border: 1px solid;
+	height: 250px;
+}
+.nk{
+	width: 100%;
+	height: 100%;
+}
+}
